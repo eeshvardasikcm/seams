@@ -1,2 +1,2 @@
 # seams
-Used for creating seams loops over any integer
+Used for creating seams loops within any integers
