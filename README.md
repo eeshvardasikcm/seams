@@ -1,6 +1,8 @@
-# seams 0.0.9.beta2
+# seams 0.0.9.beta3
 Used for creating seams loops within any integers starting with 8-bit unsigned integers
-## `seams` loop matrix outline
+## `seamsSimilar`
+`seams` is now becoming a `Similar`, like many other <b>AyurProject Language</b> classes. `seamsSimilar` is like having seams as part of a process or texture, but `seamsSimilar` is not exactly like a seaming process.
+## `seamsSimilar` loop matrix outline
 ```
 100/2+50/2 200 
 100        150 
