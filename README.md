@@ -1,4 +1,4 @@
-# seams 0.0.9 (beta)
+# seams 0.0.9.beta4
 Used for creating seams loops within any integers starting with 8-bit unsigned integers
 
 ## `seamsSimilar` math concept
