@@ -1,6 +1,8 @@
 # seams 0.0.9.beta4
 Used for creating seams loops within any integers starting with 8-bit unsigned integers
 
+
+
 ## `seamsSimilar` math concept
 Above is a small matrix that outlines some possible math for determining where to make the `seamsSimilar` occur between two integers. Therr are 10 points made using the matrix. When looking at the math only, the `seams`, or `seamsSimilar` appear like they will work good closer to one of the integers instead of halfway between. The matrix wws created to simplify the calculations needed when working with unsigned integers, as to avoid bit calculations. One integer may be considered to have a solid part and an empty part. The solid part would be the part of the contigous space between the 1 and the value of the integer. The empty part would be the space after the value of the integer that, perhaps, does not contain any material. When connecting two integers, or materials, together, `seamsSimilar` appears like it maybe will behave as if it is zooming out a camera and then connecting the two materials together, making the resultant integer between the two original integers. The matrix outlined above appears to be showing options of where the `seams` will be if the two integers are able to be created at the same time that the `seamsSimilar` operation is done on them.
 ## `seamsSimilar` concept
