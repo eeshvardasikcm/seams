@@ -1,4 +1,4 @@
-# seams 0.0.9.beta5
+# seams 0.0.9.beta6
 Used for creating seams loops within any integers starting with 8-bit unsigned integers
 ## `seamsSimilar`
 `seams` is now becoming a `Similar`, like many other <b>AyurProject Language</b> classes. `seamsSimilar` is like having seams as part of a process or texture, but `seamsSimilar` is not exactly like a seaming process.
